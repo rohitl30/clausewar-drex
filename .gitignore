@@ -1,0 +1,5 @@
+.venv/
+__pychache__/
+uploaded_docs/
+.env
+*.pyc
